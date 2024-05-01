@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Cornejo</h1>
 <h3 align="center">IT lover</h3>
 
-- 📚 Hello, I am a computer engineering student at FIB. **FIB**
+- 📚 Hello, I am a computer engineering student at. **FIB**
 
 - 📫 How to reach me **omarcornejovargas@gmail.com**
 
