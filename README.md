@@ -11,6 +11,7 @@
   <img src="https://github.com/omar-cornejo/omar-cornejo/blob/main/profile-bg.jpg" alt="Banner" width="100%" />
 </p>
 
+[Omar-Cornejo](https://omar-cornejo.github.io/page/) y esta es mi página de GitHub.
 
 
 <h3 align="left">Languages and Tools:</h3>
