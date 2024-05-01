@@ -4,9 +4,6 @@
 - 📚 Hello, I am a computer engineering student at. **FIB**
 
 - 📫 How to reach me **omarcornejovargas@gmail.com**
-/*
-[Visita mi página web](https://omar-cornejo.github.io/page/)
-*/
 
 ![Mi GIF](omar_cornejo.gif)
 
