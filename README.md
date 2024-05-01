@@ -5,7 +5,10 @@
 
 - 📫 How to reach me **omarcornejovargas@gmail.com**
 
-<img src="https://github.com/omar-cornejo/omar-cornejo/blob/main/profile-bg.jpg" alt="Descripción" width="200" height="200" align="center" />
+<p align="center">
+  <img src="https://github.com/omar-cornejo/omar-cornejo/blob/main/profile-bg.jpg" alt="Banner" width="100%" />
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
