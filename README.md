@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **omarcornejovargas@gmail.com**
 
-![WEB](https://omar-cornejo.github.io/page/) esta es mi página de GitHub.
+[Visita mi página web](https://omar-cornejo.github.io/page/)
 
 
 ![Mi GIF](omar_cornejo.gif)
