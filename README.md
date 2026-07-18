@@ -151,8 +151,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs?username=omar-cornejo&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats-kappa.vercel.app/api?username=omar-cornejo&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Stats" />
 </p>
