@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omar-cornejo/omar-cornejo/main/profile-bg.jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/omar-cornejo/omar-cornejo/main/profile-bg.jpg" alt="Banner" width="50%" />
 </p>
 
 ---
@@ -192,6 +192,9 @@ Platform for analysing **online fashion catalogs**. Scrapers (Scrapy + Playwrigh
 `Python` `Computer Vision` `Qdrant` `Scrapy` `Playwright` `Node.js` `React` `Docker` `Kubernetes` `Prometheus`
 
 <!-- IMAGE: Trendlens (drop the screenshot here, keep width="520") -->
+<p align="center">
+  <img width="520" height="320" alt="Captura de pantalla 2026-11-01 162032" src="https://github.com/user-attachments/assets/bcdc2fd7-9d62-49de-8e95-31ab3bf87293" />
+</p>
 
 ---
 
