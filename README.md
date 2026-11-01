@@ -150,6 +150,7 @@
 #### [☁️ LuraStack](https://github.com/omar-cornejo/Lurastack)
 
 <!-- IMAGE: LuraStack -->
+<img width="724" height="392" alt="Captura de pantalla 2026-11-01 161744" src="https://github.com/user-attachments/assets/108ee092-85b7-4da0-8a8e-1b00d6496e0b" />
 
 Open-source, local-first desktop app for **visual Infrastructure-as-Code**. Drag and drop AWS / GCP architectures onto a canvas and get real Terraform you can `plan` and `apply` from the same window. The canvas and the HCL stay in sync both ways.
 
@@ -161,6 +162,7 @@ Open-source, local-first desktop app for **visual Infrastructure-as-Code**. Drag
 #### [⚽ AWS Agentic Football Cup](https://github.com/omar-cornejo/aws-agentic-football-cup)
 
 <!-- IMAGE: AWS Agentic Football Cup -->
+<img width="1264" height="579" alt="Captura de pantalla 2026-11-01 160454" src="https://github.com/user-attachments/assets/09e20821-33b7-4538-9548-d35ff5357d85" />
 
 5v5 football team of AI agents for the **AWS EMEA Agentic Football Cup** (Oct 2026). Each player is its own Strands agent on **Amazon Bedrock AgentCore**. Code makes most decisions (Markov / xT expected value, defensive search) and the LLM handles the rest, with memory that carries across matches.
 
@@ -174,6 +176,7 @@ Open-source, local-first desktop app for **visual Infrastructure-as-Code**. Drag
 #### [📦 HackUPC 2026 – Warehouse Bin Packing](https://github.com/AndresLaptes/HackUPC-2026)
 
 <!-- IMAGE: HackUPC 2026 -->
+<img width="1415" height="856" alt="Captura de pantalla 2026-11-01 161759" src="https://github.com/user-attachments/assets/18b5f334-58d1-41cb-949f-0144091345c1" />
 
 High-performance solver for the **Mecalux** warehouse layout challenge. Numba-compiled parallel GRASP that builds tens of thousands of layouts per second to place shelving bays as densely as possible, plus a Tauri desktop app that shows the result in interactive 3D.
 
@@ -185,6 +188,7 @@ High-performance solver for the **Mecalux** warehouse layout challenge. Numba-co
 #### [🎮 Atom.gg – Cloud9 x JetBrains Hackathon](https://github.com/omar-cornejo/Cloud9-x-JetBrains-Hackathon)
 
 <!-- IMAGE: Atom.gg -->
+<img width="1401" height="651" alt="Captura de pantalla 2026-11-01 162156" src="https://github.com/user-attachments/assets/e98ef3ef-6dbc-421e-83a1-27a75d2428c6" />
 
 **League of Legends** esports draft assistant. An XGBoost "Draft Oracle", trained on pro match data from the GRID API with player and champion-synergy embeddings, gives real-time win probabilities and pick recommendations inside a desktop app.
 
