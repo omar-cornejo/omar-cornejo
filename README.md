@@ -60,6 +60,9 @@
   <a href="https://leetcode.com/u/omar-cornejo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="30" />
   </a>
+  <a href="https://www.kaggle.com/omaracornejo" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="30" />
+  </a>
   <a href="https://www.credly.com/users/omar-antonio-cornejo-vargas" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" height="30" />
   </a>
